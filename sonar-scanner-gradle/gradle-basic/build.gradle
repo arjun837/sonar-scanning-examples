@@ -4,8 +4,8 @@ plugins {
 
 sonar {
   properties {
-    property "sonar.projectKey", "temp7"
-    property "sonar.projectName", "temp7"
+    property "sonar.projectKey", "testgit"
+    property "sonar.projectName", "testgit"
   }
 }
 
